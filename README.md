@@ -32,18 +32,16 @@ python i2a.py
 
 ## References
 <a id="1">[1]</a> 
-M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 2020 (to appear)
+M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 2020 (to appear). [[PDF]](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/HWKW20/HWKW20.pdf)
 
 <a id="2">[2]</a> 
-M. Kerzel, E. Strahl, S. Magg, N. Navarro-Guerrero, S. Heinrich, and S. Wermter. NICO– Neuro-Inspired COmpanion: A developmental humanoid robot platform for multimodal interaction. In 2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), pages 113–120, 2017.
+M. Kerzel, E. Strahl, S. Magg, N. Navarro-Guerrero, S. Heinrich, and S. Wermter. NICO– Neuro-Inspired COmpanion: A developmental humanoid robot platform for multimodal interaction. In 2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), pages 113–120, 2017. [[PDF]](https://www2.informatik.uni-hamburg.de/wtm/publications/2017/KSMNHW17/NICO_RO-MAN_2017-PREPRINT-2017.pdf)
 
 <a id="3">[3]</a> 
-E. Rohmer, S. P. Singh, and M. Freese. V-REP: A versatile and scalable robot simulation
-framework. In 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems,
-pages 1321–1326, 2013.
+E. Rohmer, S. P. Singh, and M. Freese. V-REP: A versatile and scalable robot simulation framework. In 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, pages 1321–1326, 2013. [[PDF]](https://www.coppeliarobotics.com/coppeliaSim_v-rep_iros2013.pdf)
 
 <a id="4">[4]</a> 
-J. Jockusch and H. Ritter. An instantaneous topological mapping model for correlated stimuli. In International Joint Conference on Neural Networks (IJCNN), volume 1, pages 529–534, 1999.
+J. Jockusch and H. Ritter. An instantaneous topological mapping model for correlated stimuli. In International Joint Conference on Neural Networks (IJCNN), volume 1, pages 529–534, 1999. [[PDF]](https://ni.www.techfak.uni-bielefeld.de/files/JockuschRitter1999-AIT.pdf)
 
 ## Cite
 If you use the code, please cite the following paper:
