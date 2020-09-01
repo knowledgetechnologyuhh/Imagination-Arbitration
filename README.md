@@ -20,7 +20,7 @@ python i2a.py
 ```
 
 ## File description
-* To enable the remote API functionality of CoppeliaSim from Python client, you will need following 3 files: vrep.py, vrepConst.py, and remoteApi.so
+* To enable the remote API functionality of CoppeliaSim from Python client, you will need the following 3 files: vrep.py, vrepConst.py, and remoteApi.so
 * NICO-seated.ttt is the simulation scene that includes the robot and its environment.
 * env.py contains all functions related to the simulation environment, such as connecting to the simulator, controlling the joints, receiving the visual input, and computing the reward signal.
 * node.py and itm.py implement the Instantaneous Topological Map (ITM) [[4]](#4), which is the growing self-organizing network used in our work, and compute the proposed local learning progress.
