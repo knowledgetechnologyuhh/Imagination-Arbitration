@@ -1,6 +1,8 @@
 # Imagination-Arbitration
 This repository contains Python implementation for the Intrinsically Motivated Meta-Controller (IM2C) algorithm and Integrated Imagination-Arbitration (I2A) learning framework [[1]](#1). The implementation considers the problem of learning vision-based robotic grasping on the NICO robot [[2]](#2), but can be easily tuned towards other control problems with different sensory inputs.
 
+**Note**: Imagination-Arbitration is actively maintained at the author's GitHub repository: [github.com/mbhafez/Imagination-Arbitration](https://github.com/mbhafez/Imagination-Arbitration) 
+
 ## Dependencies
 * python 2.7
 * numpy 1.14.3
